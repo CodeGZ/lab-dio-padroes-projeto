@@ -1,0 +1,6 @@
+{
+  "pedidos": [
+    {"produto": "Camiseta", "quantidade": 2, "endereco": "Rua Exemplo, 123"},
+    {"produto": "Calça Jeans", "quantidade": 1, "endereco": "Rua Teste, 456"}
+  ]
+}
